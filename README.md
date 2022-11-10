@@ -1,5 +1,9 @@
 ## 博客
-https://thatcoder.cn
+- https://thatcoder.cn
+- https://thatcoder.gitee.io
+- https://thatcoders.github.io
+
+
 ## 资源栈
 https://blog.seclusion.work
 
