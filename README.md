@@ -10,8 +10,14 @@
 - https://thatcoders.github.io
 - https://thatcoders.vercel.app
 
-## 资源栈
-https://blog.seclusion.work
+## 有趣的玩具
+- 资源栈: https://blog.seclusion.work
+- 英汉打字练习: https://typing.thatcoder.cn
+- 程序员单词: https://enc.thatcoder.cn
+
+## API
+- fcircle朋友圈: https://fcircle.thatapi.cn
+- 网易云音乐API: https://netease.thatapi.cn
 
 ## Github签名
 
