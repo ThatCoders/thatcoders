@@ -14,6 +14,7 @@
 - 资源栈: https://blog.seclusion.work
 - 英汉打字练习: https://typing.thatcoder.cn
 - 程序员单词: https://enc.thatcoder.cn
+- Logo生成器: https://pronhub.thatcoder.cn
 
 ## API
 - fcircle朋友圈: https://fcircle.thatapi.cn
