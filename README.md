@@ -3,14 +3,14 @@
 - https://www.thatcoder.cn
 
 ## 博客
-### China Service
+### 国内访问
 - https://blog.thatcoder.cn
-- https://thatcoder.gitee.io
-### Other Service
+- https://hexo.thatcoder.cn
+### 国外访问
 - https://thatcoders.github.io
 - https://thatcoders.vercel.app
 
-## 有趣的玩具
+## 小玩意
 - 资源栈: https://blog.seclusion.work
 - 英汉打字练习: https://typing.thatcoder.cn
 - 程序员单词: https://enc.thatcoder.cn
@@ -21,7 +21,7 @@
 - 网易云音乐API: https://netease.thatapi.cn
 - RSS订阅: https://rsshub.thatapi.cn [参考文档](https://docs.rsshub.app/)
 
-## Github签名
+## Github
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThatCoders&show_icons=true&count_private=true&hide=prs&theme=default_repocard"> </div>
 
