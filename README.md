@@ -3,11 +3,8 @@
 - https://www.thatcoder.cn
 
 ## 博客
-### 国内访问
 - https://blog.thatcoder.cn
 - https://hexo.thatcoder.cn
-- https://thatcoder.gitee.io
-### 国外访问
 - https://thatcoders.github.io
 - https://thatcoders.vercel.app
 
