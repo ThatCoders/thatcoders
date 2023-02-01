@@ -4,9 +4,7 @@
 
 ## 博客
 - https://blog.thatcoder.cn
-- https://hexo.thatcoder.cn
-- https://thatcoders.github.io
-- https://thatcoders.vercel.app
+- https://hexo.thatcoder.cn [![Netlify Status](https://api.netlify.com/api/v1/badges/335a9176-8703-431f-a63b-3a4fdb5eb38a/deploy-status)](https://app.netlify.com/sites/thatcoder/deploys)
 
 ## 小玩意
 - 资源栈: https://blog.seclusion.work
