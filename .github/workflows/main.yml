@@ -1,6 +1,4 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-env:
-  name: production
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -11,6 +9,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: production  # 引用GitHub环境
+    env:  # 作业级环境变量
+      NODE_ENV: production
+      TZ: Asia/Shanghai
     permissions:
       contents: write
     steps:
