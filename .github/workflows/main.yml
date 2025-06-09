@@ -34,14 +34,18 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
           plugin_languages: yes
+          plugin_languages_aliases: typeScript:TS
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css, js, yaml, xml, md
+          plugin_languages_ignored: html, css, js, yaml, xml, md, javaScript, PHP, SCSS
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://blog.thatcoder.cn/atom.xml
