@@ -1,4 +1,6 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
+env:
+  name: production
 name: Metrics
 on:
   # Schedule updates (each hour)
