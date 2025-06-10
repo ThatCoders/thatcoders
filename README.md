@@ -16,9 +16,10 @@
 <div>&nbsp;</div>
 
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/thatcoders/thatcoders/github-metrics.svg"> </div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 <div align="center">
-
 <!--  skill badge 技能徽章 -->
 
 <!--  前端 -->
@@ -79,25 +80,24 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kotlin,idea,pycharm,webstorm,golang,rust,linux,nginx,tauri,jenkins,flutter,electron" />
+  </a>
+</p>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 </div>
 
-<!-- ### API
-[Fcircle朋友圈](https://fcircle.thatapi.cn), [网易云音乐API](https://netease.thatapi.cn), [RSS订阅](https://rsshub.thatapi.cn)--[参考文档](https://docs.rsshub.app/), [Github相关](https://github.thatapi.cn)
--->
-<!-- ### About Me -->
-<!-- <div align="center"> <img src="https://github.thatapi.cn/api?username=ThatCoders&show_icons=true&count_private=true&hide=prs&theme=default_repocard"> </div> -->
+<div>&nbsp;</div>
+<div>&nbsp;</div>
