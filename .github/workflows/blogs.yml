@@ -1,0 +1,17 @@
+# .github/workflows/blog.yml
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时更新一次
+  workflow_dispatch:  # 可手动触发
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://blog.thatcoder.cn/atom.xml"
+          max_post_count: 5
