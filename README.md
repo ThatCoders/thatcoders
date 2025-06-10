@@ -1,7 +1,4 @@
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
+### Hello Comrade
 <div align="center">
   <!-- Typing 打字特效 -->
   <h1 align="center">
@@ -11,6 +8,14 @@
   </h1>
 </div>
 <div>&nbsp;</div>
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<div>&nbsp;</div>
+
+### Github Snake
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/thatcoders/thatcoders/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -23,9 +28,12 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
+### Technologies
+
 <div align="center">
 <!--  skill badge 技能徽章 -->
 
+#### web
 <!--  前端 -->
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -38,7 +46,9 @@
 ![Next Badge](https://img.shields.io/badge/Next-181717?logo=next.js&logoColor=fff&style=flat)
 ![Hexo Badge](https://img.shields.io/badge/Hexo-3776AB?logo=hexo&logoColor=fff&style=flat)
 ![Tauri Badge](https://img.shields.io/badge/Tauri-E2231A?logo=tauri&logoColor=fff&style=flat)
+<div>&nbsp;</div>
 
+#### server
 <!--  后端 -->
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=flat)
@@ -47,7 +57,9 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP最美-777BB4?logo=php&logoColor=fff&style=flat)
+<div>&nbsp;</div>
 
+#### database
 <!--  数据库 -->
 ![postgresql Badge](https://img.shields.io/badge/Postgre-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![MySql Badge](https://img.shields.io/badge/MySql-4479A1?logo=mysql&logoColor=fff&style=flat)
@@ -58,7 +70,9 @@
 ![rabbit Badge](https://img.shields.io/badge/Rabbit-660066?logo=rabbitmq&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![steamdb Badge](https://img.shields.io/badge/SteamDB哈哈-000000?logo=steamdb&logoColor=fff&style=flat)
+<div>&nbsp;</div>
 
+#### devops
 <!--  运维 -->
 ![gradle Badge](https://img.shields.io/badge/gradle-02303A?logo=gradle&logoColor=fff&style=flat)
 ![Maven Badge](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=fff&style=flat)
@@ -68,13 +82,17 @@
 ![nginx Badge](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat)
 ![1panel Badge](https://img.shields.io/badge/1panel-0854C1?logo=1panel&logoColor=fff&style=flat)
 ![Debezium Badge](https://img.shields.io/badge/Debezium-000000?logo=databricks&logoColor=fff&style=flat)
+<div>&nbsp;</div>
 
+#### ai
 <!--  AI学习 -->
 ![ollama Badge](https://img.shields.io/badge/ollama-000000?logo=ollama&logoColor=fff&style=flat)
 ![huggingface Badge](https://img.shields.io/badge/HugFace-FFD21E?logo=huggingface&logoColor=fff&style=flat)
 ![openai Badge](https://img.shields.io/badge/openai-412991?logo=openai&logoColor=fff&style=flat)
 ![openai Badge](https://img.shields.io/badge/学习AI中...-412991?logo=openai&logoColor=fff&style=flat)
+<div>&nbsp;</div>
 
+#### system
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![huawei Badge](https://img.shields.io/badge/HuaWei-FF0000?logo=huawei&logoColor=fff&style=flat)
@@ -82,7 +100,9 @@
 ![jetbrains Badge](https://img.shields.io/badge/jetbrains-000000?logo=jetbrains&logoColor=fff&style=flat)
 ![gitea Badge](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+<div>&nbsp;</div>
 
+#### tool
 <!-- programming tool icon 编程工具图标 -->
 <p align="center">
   <a href="https://skillicons.dev">
