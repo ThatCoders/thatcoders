@@ -2,7 +2,7 @@
 - https://blog.thatcoder.cn
 
 ### Code
-![Metrics](/github-metrics.svg)
+<div align="center"> <img src="/github-metrics.svg"> </div>
 
 <!-- ### API
 [Fcircle朋友圈](https://fcircle.thatapi.cn), [网易云音乐API](https://netease.thatapi.cn), [RSS订阅](https://rsshub.thatapi.cn)--[参考文档](https://docs.rsshub.app/), [Github相关](https://github.thatapi.cn)
