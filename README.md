@@ -2,7 +2,7 @@
   <!-- Typing 打字特效 -->
   <h1 align="center">
     <a href="https://blog.thatcoder.cn/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=笔名钟意;让我们在全栈的路上一起感受;像素与逻辑的浪漫;数据与算法的交响;最后不止于代码;全栈不是终点;而是自由创造的起点！;&center=true&size=27">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=That%20Coder%20--%20笔名钟意;让我们在全栈的路上一起去感受;像素与逻辑的浪漫;数据与算法的交响;最后不止于代码;全栈不是终点;而是自由创造的起点！;&center=true&size=27">
     </a>
   </h1>
 </div>
