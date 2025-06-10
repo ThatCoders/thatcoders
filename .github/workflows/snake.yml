@@ -13,6 +13,10 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    environment: production  # 引用GitHub环境
+    env:  # 作业级环境变量
+      NODE_ENV: production
+      TZ: Asia/Shanghai
 
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
