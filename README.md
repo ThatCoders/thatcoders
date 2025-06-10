@@ -33,10 +33,10 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-### Technologies
-
 <div align="center">
 <!--  skill badge 技能徽章 -->
+
+### Technologies
 
 <!--  前端 -->
 ![title-web Badge](https://img.shields.io/badge/Web-000000?llogoColor=fff&style=flat)
@@ -107,7 +107,6 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 <div>&nbsp;</div>
 
-### Tools
 <!-- programming tool icon 编程工具图标 -->
 <p align="center">
   <a href="https://skillicons.dev">
