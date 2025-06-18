@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [浅谈RAG](https://blog.thatcoder.cn/ai/RAG/)
 - [Web技术构建桌面应用方案](https://blog.thatcoder.cn/Web-Package/)
 - [Spring WebSocket 错误](https://blog.thatcoder.cn/bug/spring-websocket-bug/)
 - [SpringBoot WebSocket 代理模式、客户端模式](https://blog.thatcoder.cn/Spring-WebSocket/)
 - [Spring AOP 调用自身失效](https://blog.thatcoder.cn/bug/spring-aop-failure-dynamic/)
-- [window 端口占用但是查不到](https://blog.thatcoder.cn/bug/port-usage/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>&nbsp;</div>
