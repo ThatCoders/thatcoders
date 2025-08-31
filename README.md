@@ -11,11 +11,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [海光 K100 DCU VLLM 推理环境构建](https://blog.thatcoder.cn/ai/hygon-vllm/)
 - [博客多平台负载均衡方案](https://blog.thatcoder.cn/Blog-Load-Balance/)
 - [浅谈RAG](https://blog.thatcoder.cn/ai/RAG/)
 - [Web技术构建桌面应用方案](https://blog.thatcoder.cn/Web-Package/)
 - [Spring WebSocket 错误](https://blog.thatcoder.cn/bug/spring-websocket-bug/)
-- [SpringBoot WebSocket 代理模式、客户端模式](https://blog.thatcoder.cn/Spring-WebSocket/)
 <!-- BLOG-POST-LIST:END -->
 
 <div>&nbsp;</div>
